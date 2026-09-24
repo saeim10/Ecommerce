@@ -38,3 +38,13 @@ API file:
 
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/b808640c-3f46-4952-8fd5-a018662beb8c)
+
+
+
+base: https://ecommerce-api.codesilicon.com/api
+- {{BASE}}/BrandList
+- {{BASE}}/CategoryList
+- {{BASE}}/ListProductByCategory/1
+- {{BASE}}/ListProductByBrand/1
+- {{BASE}}/ListProductByRemark/new
+
