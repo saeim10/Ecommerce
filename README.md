@@ -32,3 +32,9 @@ CraftyBay is a modern Flutter-based e-commerce application built with Dart and F
 - HTTP - API requests
 - SharedPreferences - Local token storage
 - Firebase - Authentication/Cloud services where applicable
+
+
+API file:
+
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/b808640c-3f46-4952-8fd5-a018662beb8c)
