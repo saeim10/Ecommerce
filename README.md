@@ -1,3 +1,4 @@
+<img width="19148" height="11458" alt="all" src="https://github.com/user-attachments/assets/3d64768f-4176-48c5-8a87-a10d2cc25984" />
 # craftybay_ecommerce
 
 A new Flutter project.
